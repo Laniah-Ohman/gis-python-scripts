@@ -2,7 +2,8 @@
 # Name:        UWI linking python script
 # Purpose:     To be used by the C# add-in. Takes the points that were clicked and
 #              determines the DLS location of each one. Builds the UWI from the
-#              last point selected and pulls the fields from the excel table.
+#              last point selected and pulls the fields from the excel table. Based on 
+#              previous script that links an excel sheet to a set of spatial data.
 #
 # Author:      Group 2 ====> Apram Singh, Nelson Ngajip, Laniah Ohman
 #
